@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9571fa95_002D8793_002D4ea8_002Dadc7_002D6f754fa28bd9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddAdditionalIds" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::67014ED6-9933-41AD-8B34-0471CE39189E::net5.0::UnitTests.DeveloperResolve.AddAdditionalIds&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::67014ED6-9933-41AD-8B34-0471CE39189E::net5.0::UnitTests.DeveloperResolve.CreateDeveloperAndAnnotate&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
